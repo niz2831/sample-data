@@ -1,0 +1,80 @@
+{
+    "privy_id": "DEVPE1211",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcml2eV9pZCI6IkRFVlBFMTIxMSIsImxvZ2luX2FzIjoiIiwiYWN0b3JfaWQiOiIiLCJwcm9qZWN0X2lkIjoiIiwicm9sZSI6IiIsImV4cCI6MTY0NzI2NzU0NX0.715uAWzX103V3KmzrRRQs3dH_I6hIbd9zRMXK1KGEOg",
+    "refresh_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcml2eV9pZCI6IkRFVlBFMTIxMSIsImxvZ2luX2FzIjoiIiwiYWN0b3JfaWQiOiIiLCJwcm9qZWN0X2lkIjoiIiwicm9sZSI6IiIsImV4cCI6MTY0OTg1ODY0NX0.X0wabcEGVQdqybuwIzEvl_Aw0xNkuqKCvA-rnM3ZqLY",
+    "login_to": {
+        "subscriber": [
+            {
+                "subscriber_id": "c35c2873-5b99-465c-a719-f4fa8b569c60",
+                "subscriber_name": "Grab",
+                "login_link": "localhost:8080/vms/api/v1/auth/login?privy_id=DEVPE1211&actor=subscriber&actor_id=c35c2873-5b99-465c-a719-f4fa8b569c60&role=superadmin"
+            },
+            {
+                "subscriber_id": "ddde975f-8264-4dfa-8cc1-9a76776b28e4",
+                "subscriber_name": "Gojek",
+                "login_link": "localhost:8080/vms/api/v1/auth/login?privy_id=DEVPE1211&actor=subscriber&actor_id=ddde975f-8264-4dfa-8cc1-9a76776b28e4&role=superadmin"
+            },
+            {
+                "subscriber_id": "2e924a87-a867-415d-8d55-8b8f8155019f",
+                "subscriber_name": "Ovo",
+                "login_link": "localhost:8080/vms/api/v1/auth/login?privy_id=DEVPE1211&actor=subscriber&actor_id=2e924a87-a867-415d-8d55-8b8f8155019f&role=superadmin"
+            },
+            {
+                "subscriber_id": "9191d714-0c0e-42be-94ec-f1f78fae8c9b",
+                "subscriber_name": "Microsoft",
+                "login_link": "localhost:8080/vms/api/v1/auth/login?privy_id=DEVPE1211&actor=subscriber&actor_id=9191d714-0c0e-42be-94ec-f1f78fae8c9b&role=superadmin"
+            }
+        ],
+        "product": [
+            {
+                "subscriber_id": "2e924a87-a867-415d-8d55-8b8f8155019f",
+                "subscriber_name": "Ovo",
+                "product_id": "3c524ef0-19a6-4bc1-995a-7e0253cd2bd1",
+                "product_name": "Food",
+                "login_link": "localhost:8080/vms/api/v1/auth/login?privy_id=DEVPE1211&actor=product&actor_id=3c524ef0-19a6-4bc1-995a-7e0253cd2bd1&role=superadmin"
+            },
+            {
+                "subscriber_id": "9191d714-0c0e-42be-94ec-f1f78fae8c9b",
+                "subscriber_name": "Microsoft",
+                "product_id": "4838f1ac-2c15-4c7c-bf0a-bae01e5b847a",
+                "product_name": "Food",
+                "login_link": "localhost:8080/vms/api/v1/auth/login?privy_id=DEVPE1211&actor=product&actor_id=4838f1ac-2c15-4c7c-bf0a-bae01e5b847a&role=superadmin"
+            }
+        ],
+        "project": [
+            {
+                "subscriber_id": "9191d714-0c0e-42be-94ec-f1f78fae8c9b",
+                "subscriber_name": "Microsoft",
+                "product_id": "4838f1ac-2c15-4c7c-bf0a-bae01e5b847a",
+                "product_name": "Food",
+                "project_id": "e5aea226-73d6-485d-9a26-378fe10f1a5e",
+                "project_name": "Promo 789",
+                "login_link": "localhost:8080/vms/api/v1/auth/login?privy_id=DEVPE1211&actor=project&actor_id=e5aea226-73d6-485d-9a26-378fe10f1a5e&role=superadmin"
+            },
+            {
+                "subscriber_id": "9191d714-0c0e-42be-94ec-f1f78fae8c9b",
+                "subscriber_name": "Microsoft",
+                "product_id": "4838f1ac-2c15-4c7c-bf0a-bae01e5b847a",
+                "product_name": "Food",
+                "project_id": "b92b43ac-b1e4-4e45-9dab-9947c9a7ae47",
+                "project_name": "Promo 654",
+                "login_link": "localhost:8080/vms/api/v1/auth/login?privy_id=DEVPE1211&actor=project&actor_id=b92b43ac-b1e4-4e45-9dab-9947c9a7ae47&role=superadmin"
+            }
+        ],
+        "vendor": [
+            {
+                "vendor_id": "afb7f889-c8e6-48e6-a110-11cf96145dff",
+                "vendor_name": "Vendor h",
+                "projects": {
+                    "subscriber_id": "9191d714-0c0e-42be-94ec-f1f78fae8c9b",
+                    "subscriber_name": "",
+                    "product_id": "4838f1ac-2c15-4c7c-bf0a-bae01e5b847a",
+                    "product_name": "Food",
+                    "project_id": "e5aea226-73d6-485d-9a26-378fe10f1a5e",
+                    "project_name": "Promo 789",
+                    "login_link": "localhost:8080/vms/api/v1/auth/login?privy_id=DEVPE1211&actor=vendor&actor_id=afb7f889-c8e6-48e6-a110-11cf96145dff&project_id=e5aea226-73d6-485d-9a26-378fe10f1a5e&role=superadmin"
+                }
+            }
+        ]
+    }
+}
