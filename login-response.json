@@ -39,6 +39,13 @@
                 "product_id": "4838f1ac-2c15-4c7c-bf0a-bae01e5b847a",
                 "product_name": "Food",
                 "login_link": "localhost:8080/vms/api/v1/auth/login?privy_id=DEVPE1211&actor=product&actor_id=4838f1ac-2c15-4c7c-bf0a-bae01e5b847a&role=superadmin"
+            },
+            {
+                "subscriber_id": "ddde975f-8264-4dfa-8cc1-9a76776b28e4",
+                "subscriber_name": "Gojek",
+                "product_id": "5238f1be-2c12-3c8c-cf0a-eae01e5b847e",
+                "product_name": "Food",
+                "login_link": "localhost:8080/vms/api/v1/auth/login?privy_id=DEVPE1211&actor=product&actor_id=5238f1be-2c12-3c8c-cf0a-eae01e5b847e&role=superadmin"
             }
         ],
         "project": [
