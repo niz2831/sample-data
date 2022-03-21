@@ -86,13 +86,13 @@
                 "vendor_id": "afb7f889-c8e6-48e6-a110-11cf96145dff",
                 "vendor_name": "Vendor h",
                 "project": {
-                    "subscriber_id": "9191d714-0c0e-42be-94ec-f1f78fae8c9b",
-                    "subscriber_name": "Microsoft", 
-                    "product_id": "4838f1ac-2c15-4c7c-bf0a-bae01e5b847a",
+                    "subscriber_id": "ddde975f-8264-4dfa-8cc1-9a76776b28e4",
+                    "subscriber_name": "Gojek", 
+                    "product_id": "5238f1be-2c12-3c8c-cf0a-eae01e5b847e",
                     "product_name": "Food",
-                    "project_id": "b92b43ac-b1e4-4e45-9dab-9947c9a7ae47",
-                    "project_name": "Promo 654",
-                    "login_link": "localhost:8080/vms/api/v1/auth/login?privy_id=DEVPE1211&actor=vendor&actor_id=afb7f889-c8e6-48e6-a110-11cf96145dff&project_id=b92b43ac-b1e4-4e45-9dab-9947c9a7ae47&role=superadmin"
+                    "project_id": "c92b43ac-b1e4-4e45-bdab-9947c9a7ae4e",
+                    "project_name": "Promo 666",
+                    "login_link": "localhost:8080/vms/api/v1/auth/login?privy_id=DEVPE1211&actor=vendor&actor_id=afb7f889-c8e6-48e6-a110-11cf96145dff&project_id=c92b43ac-b1e4-4e45-bdab-9947c9a7ae4e7&role=superadmin"
                 }
             }
         ]
