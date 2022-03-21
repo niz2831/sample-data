@@ -72,7 +72,7 @@
             {
                 "vendor_id": "afb7f889-c8e6-48e6-a110-11cf96145dff",
                 "vendor_name": "Vendor h",
-                "projects": {
+                "project": {
                     "subscriber_id": "9191d714-0c0e-42be-94ec-f1f78fae8c9b",
                     "subscriber_name": "",
                     "product_id": "4838f1ac-2c15-4c7c-bf0a-bae01e5b847a",
