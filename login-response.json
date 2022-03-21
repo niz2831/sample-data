@@ -74,7 +74,7 @@
                 "vendor_name": "Vendor h",
                 "projects": {
                     "subscriber_id": "9191d714-0c0e-42be-94ec-f1f78fae8c9b",
-                    "subscriber_name": "Microsoft",
+                    "subscriber_name": "Microsoft", 
                     "product_id": "4838f1ac-2c15-4c7c-bf0a-bae01e5b847a",
                     "product_name": "Food",
                     "project_id": "e5aea226-73d6-485d-9a26-378fe10f1a5e",
