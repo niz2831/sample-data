@@ -1,0 +1,12 @@
+{
+ "signers":
+    [
+        {
+            "privy_id": "KK123"
+            "privy_name": "ASEP"
+            "signer_role":
+            "is_internal_signer":
+            "status_sign": 
+        }
+    ]
+}
