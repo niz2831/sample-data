@@ -1,0 +1,67 @@
+{
+    "doc_creator_id": "SJ9731",
+    "doc_creator_name": "Juan",
+    "doc_creator_actor_id": "VEN001",
+    "documents_subject": "Perjanjian Jual Beli",
+    "is_internal": true, (if false, reflect to project_id)
+    "project_id": "PRJ001",
+    "signing_type": "pararel",
+    "documents": [
+        {
+            "fileName": keyFile
+            "is_with_tte":
+            "is_with_materai":
+            "materai_qty":
+            "is_with_stamp":
+            "tte_placements":
+            [
+                {
+                    "privy_id": "KK123",
+                    "coordinate_x": 100,
+                    "coordinate_y": 100,
+                    "sign_page": 1
+                }
+            ],
+            "reviewer":
+            [
+                {
+                    "privy_id": "KK123",
+                    "actor_type": "Vendor"
+                }
+            ],
+            "approver":
+            [
+                {
+                    "privy_id": "KK123",
+                    "actor_type": "Subcriber"
+                }
+            ],
+            "materai_placements":
+            [
+                {
+                    "coordinate_x": 100,
+                    "coordinate_y": 100,
+                    "sign_page": 1,
+                    "actor_type": "Subcriber" (TBD, tanya apakah ada atas entitas siapa)
+                }
+            ],
+            "stamp_placements":
+            [
+                {
+                    "coordinate_x": 100,
+                    "coordinate_y": 100,
+                    "sign_page": 1,
+                    "actor_type": "Subcriber"
+                }
+            ]
+        },
+        {
+
+        }
+    ],
+    "category": category_id,
+    "sub_category": sub_category_id,
+    "document_validation": "19 JAN 2022",
+    "notes": "ABCADERFASDASDASD",
+    "vendor_id": "VEND123"
+}
