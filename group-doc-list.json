@@ -1,9 +1,16 @@
 [
     {
-        "group_doc_id/transaction": 
-        "document_subject":
-        "document_uploaded_date":
-        "vendor_name": "Mandiri"
+        "group_doc_id": "FGX282716",
+        "document_subject": "Mandiri MKK",
+        "document_uploaded_date": "14-Feb-2021",
+        "vendor_name": "Mandiri",
+        "status": "Pending"
+    },
+    {
+        "group_doc_id": "AHS219032",
+        "document_subject": "Mandiri Mosat",
+        "document_uploaded_date": "14-Feb-2021",
+        "vendor_name": "Mandiri",
         "status": "Pending"
     }
 ]
