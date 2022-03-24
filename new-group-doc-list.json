@@ -16,15 +16,15 @@
                 "documents":
                 [
                   {
-                    "document_name": "BAST",
+                    "document_name": "Document BAST",
                     "is_tte": true
                   },
                   {
-                    "document_name": "SPK",
+                    "document_name": "Document SPK",
                     "is_tte": true
                   },
                   {
-                    "document_name": "PKS",
+                    "document_name": "Document PKS",
                     "is_tte": true
                   }
                 ]
@@ -38,19 +38,19 @@
                 "documents":
                 [
                   {
-                    "document_name": "BAST",
+                    "document_name": "Document BAST",
                     "is_tte": true
                   },
                   {
-                    "document_name": "SPK",
+                    "document_name": "Document SPK",
                     "is_tte": true
                   },
                   {
-                    "document_name": "PKS",
+                    "document_name": "Document PKS",
                     "is_tte": true
                   },
                   {
-                    "document_name": "Faktur Pajak",
+                    "document_name": "Document Faktur Pajak",
                     "is_tte": false
                   }
                 ]
