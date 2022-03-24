@@ -1,0 +1,38 @@
+{
+    "error_code": 0,
+    "message": "Success",
+    "data": [
+        {
+            "category_id": 1,
+            "category_name": "Penjualan",
+            "sub_categories": [
+                {
+                    "sub_category_id": 1,
+                    "sub_category_name": "Sub Cat penjualan 1"
+                },
+                {
+                    "sub_category_id": 2,
+                    "sub_category_name": "Sub Cat penjualan 2"
+                }
+            ]
+        },
+        {
+            "category_id": 2,
+            "category_name": "Perjanjian",
+            "sub_categories": [
+                {
+                    "sub_category_id": 3,
+                    "sub_category_name": "Sub Cat Perjanjian 1"
+                },
+                {
+                    "sub_category_id": 4,
+                    "sub_category_name": "Sub Cat Perjanjian 2"
+                },
+                {
+                    "sub_category_id": 5,
+                    "sub_category_name": "Sub Cat Perjanjian 3"
+                }
+            ]
+        }
+    ]
+}
