@@ -1,0 +1,60 @@
+{
+    "error_code": 0,
+    "message": "Success",
+    "data": {
+        "total_page": 1,
+        "total_record": 2,
+        "current_page": 1,
+        "group_documents": 
+            [
+              {
+                "group_doc_id":"vms032420225DOCa55ddfbb4a0",
+                "document_subject":"Mandiri MKK",
+                "document_uploaded_date":"Jan 10 2022",
+                "vendor_name":"Mandiri",
+                "status":"Pending",
+                "documents":
+                [
+                  {
+                    "document_name": "BAST",
+                    "is_tte": true
+                  },
+                  {
+                    "document_name": "SPK",
+                    "is_tte": true
+                  },
+                  {
+                    "document_name": "PKS",
+                    "is_tte": true
+                  }
+                ]
+              },
+              {
+                "group_doc_id":"vms012120225DOCa44ddfbb4a0",
+                "document_subject":"Mandiri Mosat",
+                "document_uploaded_date":"Mar 10 2022",
+                "vendor_name":"Mandiri",
+                "status":"Pending",
+                "documents":
+                [
+                  {
+                    "document_name": "BAST",
+                    "is_tte": true
+                  },
+                  {
+                    "document_name": "SPK",
+                    "is_tte": true
+                  },
+                  {
+                    "document_name": "PKS",
+                    "is_tte": true
+                  },
+                  {
+                    "document_name": "Faktur Pajak",
+                    "is_tte": false
+                  }
+                ]
+              }
+            ]
+    }
+}
