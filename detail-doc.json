@@ -8,6 +8,7 @@
 		"documents" : 
 		[ 
 			{
+	    			"document_name": "Document BAST",
 				"document_categories": "Doc A",
 				"document_sub_categories": "Doc AB",
 				"document_value": "Rp.10.000",
