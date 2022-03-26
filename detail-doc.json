@@ -35,6 +35,35 @@
                                             "created_at": "Jumat, 8-05-2022 11.31 WIB"
                                     }
                             ]
+                    },
+                    {
+                            "document_name": "Document SPK",
+                            "document_categories": "Doc A",
+                            "document_sub_categories": "Doc AB",
+                            "document_value": "Rp.20.000",
+                            "document_valid_until": "Oct 28, 2020 10:13 PM",
+                            "project": "Mandiri MKK",
+                            "notes": "Jangan Di abaikan",
+                            "date_upload": "Oct 9, 2020 10:13 PM",
+                            "vendor": "CIMB",
+                            "tte": 3,
+                            "document_preview": "http://document.doc?asdasazxca",
+                            "list_signers":
+                            [
+                                    {
+                                            "signer_id": "PO3421",
+                                            "signer_name": "User Test 2",
+                                            "signer_type": "Internal",
+                                            "status": "Pending"
+                                    }
+                            ],
+                            "histories":
+                            [
+                                    {
+                                            "action": "Receive Email Notification 2",
+                                            "created_at": "Jumat, 11-05-2022 11.31 WIB"
+                                    }
+                            ]
                     }
             ]
    
