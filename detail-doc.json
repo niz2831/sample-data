@@ -39,8 +39,16 @@
                             [
                                     {
                                             "action": "Receive Email Notification",
-                                            "created_at": "Jumat, 8-05-2022 11.31 WIB"
-                                    }
+                                            "created_at": "Jumat, 8-05-2022 | 11.31 WIB"
+                                    },
+                                    {
+                                            "action": "Receive OTP",
+                                            "created_at": "Jumat, 8-05-2022 | 11.31 WIB"
+                                    },
+                                    {
+                                            "action": "Input OTP",
+                                            "created_at": "Jumat, 8-05-2022 | 11.31 WIB"
+                                    },
                             ]
                     },
                     {
@@ -69,7 +77,7 @@
                             [
                                     {
                                             "action": "Receive Email Notification 2",
-                                            "created_at": "Jumat, 11-05-2022 11.31 WIB"
+                                            "created_at": "Jumat, 11-05-2022 | 11.31 WIB"
                                     }
                             ]
                     },
@@ -99,7 +107,7 @@
                             [
                                     {
                                             "action": "Receive Email Notification 3",
-                                            "created_at": "Jumat, 11-05-2022 11.31 WIB"
+                                            "created_at": "Jumat, 11-05-2022 | 11.31 WIB"
                                     }
                             ]
                     }
