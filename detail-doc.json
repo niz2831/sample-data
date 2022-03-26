@@ -5,37 +5,5 @@
 		"reference_number" : "Document Perjanan"
 		"subject" : "Mandiri KK",
 		"signing_detail" : "Parallel"
-		"documents" : 
-		[ 
-			{
-	    			"document_name": "Document BAST",
-				"document_categories": "Doc A",
-				"document_sub_categories": "Doc AB",
-				"document_value": "Rp.10.000",
-				"document_valid_until": "Oct 20, 2020 10:13 PM",
-				"project": "Mandiri MKK",
-				"notes": "Jangan Di abaikan",
-				"date_upload": "Oct 9, 2020 10:13 PM",
-				"vendor": "CIMB",
-				"tte": 3,
-				"document_preview": "http://document.doc?asdasazxca"
-				"list_signers": 
-				[
-					{
-						"signer_id": "PO3421",
-						"signer_name": "User Test 1",
-						"signer_type": "Internal",
-						"status": "Pending"
-					}
-				],
-				"histories": 
-				[
-					{
-						"action": "Receive Email Notification",
-						"created_at": "Jumat, 8-05-2022 11.31 WIB"
-					}
-				]
-			}
-		]
-    }
+    	    } 
 }
